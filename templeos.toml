@@ -1,8 +1,10 @@
 [information]
 name = "templeos"
 background = "light"
-author = 'Christian Chiarulli <chrisatmachine@gmail.com>'
 #000000, #0000AA, #00AA00, #00AAAA, #AA0000, #AA00AA, #AA5500, #AAAAAA, #555555, #5555FF, #55FF55, #55FFFF, #FF5555, #FF55FF, #FFFF55, #FFFFFF
+
+#A30303 //red
+#13A613 //green
 
 
 [palette]
@@ -20,11 +22,11 @@ light_gray = '#AAAAAA'
 
 red = '#AA0000'
 blue = '#0000AA'
-green = '#00AA00'
-cyan = '#00AAAA'
+green = '#13A613' #changed from 00AA00
+cyan = '#000000' #changed from AA0000
 orange = '#AA5500'
 yellow = '#FFFF55'
-purple = '#AA00AA'
+purple = '#A30303' #changed from AA00AA
 magenta = '#AA00AA'
 
 cursor_fg = '#415062'
