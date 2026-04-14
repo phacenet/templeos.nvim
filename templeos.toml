@@ -36,7 +36,7 @@ sign_add = '#55FF55'
 sign_change = '#5555FF'
 sign_delete = '#FF5555'
 
-sign_add_alt = '000000#' #changed from 55FFFF
+sign_add_alt = '#000000' #changed from 55FFFF
 sign_change_alt = '#FFFF55'
 
 error = '#FF5555'
