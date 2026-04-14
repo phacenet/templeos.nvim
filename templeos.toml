@@ -27,7 +27,7 @@ cyan = '#000000' #changed from AA0000
 orange = '#AA5500'
 yellow = '#FFFF55'
 purple = '#A30303' #changed from AA00AA
-magenta = '#AA00AA'
+magenta = '#000000' #changed from AA00AA
 
 cursor_fg = '#415062'
 cursor_bg = '#AbAbAf'
@@ -51,7 +51,7 @@ hint_bg = '#ffffff'
 
 reference = '#555555'
 success_green = '#55FF55'
-folder_blue = '#55FFFF'
+folder_blue = '#0000AA' #changed from 55FFFF
 
 
 ui_blue = '#0000AA'
