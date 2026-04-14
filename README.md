@@ -12,8 +12,7 @@ use "lunarvim/templeos.nvim"
 vim.cmd("colorscheme templeos")
 ```
 
-## The font is important
-
+## Font
 The font can be found in the root of this repo
 
 - download it
@@ -26,4 +25,5 @@ The font can be found in the root of this repo
   fc-cache -f -v
   ```
 
-- set your terminal font to `TempleOS`
+- set your terminal font to `DepartureMonoNerdFontMono-Regular`
+- I use Font size 12, Font weight Bold
