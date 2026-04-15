@@ -17,6 +17,7 @@ local colors = {
 	yellow = "#FFFF55",
 	purple = "#0000AA",
 	magenta = "#0000AA",
+	qualifier = "#A802A8",
 	cursor_fg = "#5555FF",
 	cursor_bg = "#555555",
 	sign_add = "#55FF55",
