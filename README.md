@@ -26,4 +26,4 @@ The font can be found in the root of this repo
   ```
 
 - set your terminal font to `DepartureMonoNerdFontMono-Regular`
-- I use Font size 12, Font weight Bold
+- I use Font size 12, Font weight Bold, Cell width 0.59
