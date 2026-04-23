@@ -25,6 +25,5 @@ The font can be found in the root of this repo
   fc-cache -f -v
   ```
 
-- set your terminal font to `DepartureMonoNerdFontMono-Regular`
-- I use Font size 12, Font weight Bold, Cell width 0.59
-- Color scheme IBM5 5153, Cursor shape: Filled box, Cursor Color #FFFFFF
+- set your terminal font to `DepartureMonoAdjusted.otf`
+- Color scheme IBM5 5153 on WSL, and Linux Colors on Linux
